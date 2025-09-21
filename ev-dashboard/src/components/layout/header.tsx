@@ -4,7 +4,7 @@ import { Car, BarChart3, Table, Filter } from "lucide-react"
 import { Button } from "../ui/button"
 import { motion } from "framer-motion"
 
-const logo = "/public/logo.png";
+const logo = "/logo.png";
 
 interface HeaderProps {
   activeTab: string
